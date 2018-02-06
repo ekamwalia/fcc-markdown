@@ -1,0 +1,61 @@
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+#previewer-container {
+  margin-top : 2vh;
+}
+
+#markdown-textarea {
+  display: block;
+  padding: 2vh;
+  height : 85%;
+  width : 94%;
+  margin : 2vh;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+#preview-textarea {
+  display: block;
+  padding: 2vh;
+  height : 85%;
+  width : 94%;
+  margin : 2vh;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+#markdown-segment {
+  height : 73vh;
+}
+
+#preview-segment {
+  height : 73vh;
+}
+
+.section-header {
+    margin : 30px;
+}
+
+#home-grid {
+  margin-top : 15vh;
+}
+
+#guide-grid{
+  margin-top : 5vh;
+}
+
+.regular-text {
+  padding : 15px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.guide-text {
+  padding : 15px;
+  font-size: 15px;
+}
